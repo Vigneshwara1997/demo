@@ -1,5 +1,4 @@
 <?php
-
 	$lang = "en";
 	$root = "../../";
    $pagetitle = "BaumaLight - Flail mowers";
